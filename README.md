@@ -1,8 +1,9 @@
 ## Tane Piper
 
-### Links
-
 - [My Blog](https://tane.dev/)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 - 🔭 I’m currently working on [RxJS Primitives](https://rxjs.ninja)
 
