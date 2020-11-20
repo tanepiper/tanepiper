@@ -1,4 +1,10 @@
-### Hi there 👋
+## Tane Piper
+
+### Links
+
+- [My Blog](https://tane.dev/)
+
+- 🔭 I’m currently working on [RxJS Primitives](https://rxjs.ninja)
 
 <!--
 **tanepiper/tanepiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
