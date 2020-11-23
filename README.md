@@ -3,11 +3,11 @@
 - [My Blog](https://tane.dev/)
 
 <!-- BLOG-POST-LIST:START -->
+- [RxJS Primitives is now RxJS Ninja](https://tane.dev/2020/11/rxjs-primitives-is-now-rxjs-ninja/)
 - [New RxJS Primitives release, new operators + Typescript 4](https://tane.dev/2020/11/new-rxjs-primitives-release-new-operators-typescript-4/)
 - [Polymorphic TypeScript - Function overloading with rest parameters](https://tane.dev/2020/05/polymorphic-typescript-function-overloading-with-rest-parameters/)
 - [Publishing NPM Libraries using NX and Github Actions](https://tane.dev/2020/05/publishing-npm-libraries-using-nx-and-github-actions/)
 - [RxJS Primitives - Operators for mutating and filtering primitives](https://tane.dev/2020/04/rxjs-primitives-operators-for-mutating-and-filtering-primitives/)
-- [Validating data with JSON Schema, Angular and TypeScript](https://tane.dev/2019/09/validating-data-with-json-schema-angular-and-typescript/)
 <!-- BLOG-POST-LIST:END -->
 
 - 🔭 I’m currently working on [RxJS Primitives](https://rxjs.ninja)
