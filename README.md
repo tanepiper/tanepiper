@@ -10,7 +10,7 @@
 - [Publishing NPM Libraries using NX and Github Actions](https://tane.dev/2020/05/publishing-npm-libraries-using-nx-and-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on [RxJS Primitives](https://rxjs.ninja)
+- 🔭 I’m currently working on [RxJS Ninja](https://rxjs.ninja)
 
 <!--
 **tanepiper/tanepiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
