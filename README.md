@@ -3,11 +3,11 @@
 - [My Blog](https://tane.dev/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Webserial.app - An Svelte application for communicating with Serial Devices](https://tane.dev/2021/02/webserial.app-an-svelte-application-for-communicating-with-serial-devices/)
+- [Announcing Formula - A Zero-Config Reactive Forms Library for Svelte](https://tane.dev/2021/02/announcing-formula-a-zero-config-reactive-forms-library-for-svelte/)
+- [Revisiting Dark patterns with the HTML <dialog> tag](https://tane.dev/2021/02/revisiting-dark-patterns-with-the-html-dialog-tag/)
+- [WebSerial.app - Browser to USB Serial Communication With Svelte](https://tane.dev/2021/02/webserial.app-browser-to-usb-serial-communication-with-svelte/)
 - [Web Serial API with RxJS - Two-Way Reactive Communication between Browser and Serial Hardware](https://tane.dev/2021/01/web-serial-api-with-rxjs-two-way-reactive-communication-between-browser-and-serial-hardware/)
 - [Create your own Dark Mode Detection Observable using RxJS and Media Queries](https://tane.dev/2021/01/create-your-own-dark-mode-detection-observable-using-rxjs-and-media-queries/)
-- [Creating Custom RxJS Operators](https://tane.dev/2021/01/creating-custom-rxjs-operators/)
-- [RxJS Ninja Updates - New operators for math and working with streams](https://tane.dev/2021/01/rxjs-ninja-updates-new-operators-for-math-and-working-with-streams/)
 <!-- BLOG-POST-LIST:END -->
 
 - 🔭 I’m currently working on [RxJS Ninja](https://rxjs.ninja)
